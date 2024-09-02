@@ -1,7 +1,7 @@
 '''
 3) Observe o trecho de código abaixo:
 
-int INDICE = 12, SOMA = 0, K = 1;
+int INDICE = 12/13, SOMA = 0, K = 1/0;
 
     enquanto K < INDICE faça { 
         K = K + 1;
@@ -11,9 +11,9 @@ int INDICE = 12, SOMA = 0, K = 1;
 imprimir(SOMA);
 '''
 
-INDICE = 12
+INDICE = 13
 SOMA = 0
-K = 1
+K = 0
 
 while K < INDICE:
     K = K + 1
@@ -21,4 +21,5 @@ while K < INDICE:
 
 print(SOMA)
 
-# soma = 77 quando indice = 12
+# soma=77 para indice=12 e k=1
+# soma=91 para indice=13 e

@@ -6,20 +6,24 @@ Este repositório contém o desafio de desenvolvimento de software para o proces
 
 ## Desafios
 
-1. Sequência de Fibonacci
-2. Letras "a" numa String
-3. Algoritmo de soma
-4. Questão de lógica com números
-5. Questão de lógica com texto
+- Sequência de Fibonacci
+- Letras "a" numa String
+- Algoritmo de soma
+- Questão de lógica com números
+- Questão de lógica com texto
+- Realizar operações com faturamento em JSON
+- Percentual de cada estado no faturamento de uma distribuidora
+- Inverter uma string
 
 
 ## Tecnologias Utilizadas
 
-- **Linguagem de Programação:** Javascript
+- **Linguagem de Programação:** Python
 
 ## Como Executar o Projeto
 
-
+```bash
+   python (nome do arquivo).py
 
 **Clone o repositório:**
    ```bash

@@ -1,0 +1,6 @@
+Eu ligaria um dos interruptores por alguns minutos edesligaria, ligando imediatamente o
+outro interruptor ao seu lado. Ao fazer isso iria até as salas das lâmpadas, a lâmpada
+que estiver acesa corresponde ao interruptor que está ligado. Sobre as outras duas
+apagadas, com a mão sobre as duas e verificaria qual está quente, sinal de que a 
+lâmpada foi recentemente ligada, então corresponde ao primeiro iterruptor que foi 
+ligado, o outro interruptor que não foi manipulado corresponde a lâmpada fria.

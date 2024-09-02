@@ -15,16 +15,16 @@ Este repositório contém o desafio de desenvolvimento de software para o proces
 - Percentual de cada estado no faturamento de uma distribuidora
 - Inverter uma string
 
-
 ## Tecnologias Utilizadas
 
 - **Linguagem de Programação:** Python
 
-## Como Executar o Projeto
+## Execução
 
+- **Como Executar o Cada Desafio:**
 ```bash
-   python (nome do arquivo).py
-
-**Clone o repositório:**
-   ```bash
-    git clone https://github.com/leonfagundes/DesafioTarget.git
+   python (nome-do-arquivo).py
+```
+- **Clone o Repositório:**
+```bash
+git clone https://github.com/leonfagundes/DesafioTarget.git
